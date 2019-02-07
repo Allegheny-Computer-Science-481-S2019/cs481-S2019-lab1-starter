@@ -64,8 +64,8 @@ mistakes in the assignment, then this means that your source code and writing
 are passing all of the automated baseline checks. However, if the output
 indicates that there are mistakes, then you will need to understand what they
 are and then try to fix them. Specifically, the mistakes for the files in this
-repository will related to the fact that they may not exist or that they do not
-pass the linting checks of the two linters.
+repository will related to the fact that they do not pass the linting checks
+of the two linters.
 
 ## Updates
 
